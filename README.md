@@ -13,13 +13,14 @@
 
 <img src="./art/tryhackme.jpeg" alt="logo" width="300" height="156.5">
 
-# От нуля до бога tryhackme бесплатно 
+# Frá núlli til guðs tryhackme ókeypis
 </div>
 
-TryHackMe — это исключительная онлайн-платформа, разработанная для предоставления людям практического опыта обучения 
-кибербезопасности.
-Она предлагает иммерсивную среду, в которой пользователи могут изучать различные темы, осваивать основные 
-инструменты и улучшать свои практические навыки. 
+TryHackMe er einkarekinn vettvangur á netinu sem hannaður er til að veita fólki upplifun af praktískri 
+netöryggisupplifun. Það býður upp á yfirgripsmikið umhverfi þar sem notendur geta kynnt sér ýmis efni, 
+náð tökum á grunnverkfærum og bætt hagnýta færni sína.
+
+Við skulum byrja á upplýsingaherbergjunum, þau munu gefa okkur nauðsynlegan grunn:
 
 ## Начнем с информационных комнат, они нам дадут необходимую базу:
 - [Advent of Cyber '23 Side Quest](https://github.com/BEPb/tryhackme/blob/master/00.info/Advent%20of%20Cyber%20'23%20Side%20Quest.md)
